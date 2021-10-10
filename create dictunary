@@ -1,0 +1,10 @@
+#code  with hammad ali
+#2nd program in python
+#create dictunary 
+
+print("in this program i will show you how how to create dec and give input frome user")
+dec={"ali":"papur",}
+a = input()
+b = input()
+dec[a] = b
+print(dec)
