@@ -1,0 +1,6 @@
+#2nd program in python 
+#print string in invers
+
+a = "hello boys"
+print(a[::-1])
+
