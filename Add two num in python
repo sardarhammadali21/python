@@ -1,0 +1,9 @@
+#1st program in python 
+#add 2 numbers
+print("enter a 1st nymber ")
+a = input()
+print("enter a 1st nymber int")
+b = input()
+c = int(a)+int(b)
+print("sum of those two no is")
+print(c)
